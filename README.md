@@ -20,7 +20,7 @@
 - ~512 МБ RAM
 ---
 ### Запуск
-1. Скачай `ReplaceCraft-Server.jar` из [Releases](https://github.com/NazarDaniluck/rcdedicatedserver/releases)
+1. Скачай `RCDedicatedServer.jar` из [Releases](https://github.com/NazarDaniluck/rcdedicatedserver/releases)
 2. Запусти:
 ```bat
-java -jar ReplaceCraft-Server.jar
+java -jar RCDedicatedServer.jar
